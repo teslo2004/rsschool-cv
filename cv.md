@@ -15,3 +15,10 @@ Start a career a junior developer in company and become a good programmer. Easy 
 [GitHub](https://github.com/teslo2004/lesson)
 ## Experience
 I have experience in web development on HTML, CSS, JavaSript
+## Education
+*	BSUIR 2005-2010, Faculty of Information Technologies and Control;
+* A1QA, 2015, Basics of testing software
+* IT-Academy, 2019, Website development using HTML, CSS and JavaScript
+* IT-Academy, 2019, Development web applications on JavaScript
+## English
+Pre-Intermediate
