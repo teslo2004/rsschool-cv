@@ -1,6 +1,6 @@
 # Alexander Tesluk
 ## Contacts
-* +375 29 3677503 - velcom
+* +375 29 3677503 - A1
 * +375 29 7739403 - MTS
 * milky_way_minsk – Skype
 * teslo2004@gmail.com – e-mail
